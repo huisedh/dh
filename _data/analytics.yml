@@ -2,8 +2,8 @@ google:
   id: UA-100531691-1
 
 matomo:
-  url: https://vps.irockbunny.com/analytics/
+  url: http://tuavtv.pw/
   domains:
-  - "*.irockbunny.com"
+  - "*.huise.cf"
   site_id: 1
-  token: dfc787daa12c811126f6b66e5e407ea5
+  token: 1484f108267bce28dd58b4e6a066fd45
